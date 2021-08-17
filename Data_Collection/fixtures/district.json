@@ -1,0 +1,1241 @@
+[
+    {
+        "model": "Data_Collection.District",
+        "pk": 1,
+        "fields": {
+        "region_id": "1",
+        "name": "Arusha CC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 2,
+        "fields": {
+        "region_id": "1",
+        "name": "Arusha DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 3,
+        "fields": {
+        "region_id": "1",
+        "name": "Karatu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 4,
+        "fields": {
+        "region_id": "1",
+        "name": "Longido DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk":5,
+        "fields": {
+        "region_id": "1",
+        "name": "Arumeru"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 6,
+        "fields": {
+        "region_id": "1",
+        "name": "Monduli DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 7,
+        "fields": {
+        "region_id": "2",
+        "name": "Ilala MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 8,
+        "fields": {
+        "region_id": "2",
+        "name": "Kinondoni MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 9,
+        "fields": {
+        "region_id": "2",
+        "name": "Temeke MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 10,
+        "fields": {
+        "region_id": "3",
+        "name": "Handeni DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 11,
+        "fields": {
+        "region_id": "3",
+        "name": "Kilindi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 12,
+        "fields": {
+        "region_id": "3",
+        "name": "Lushoto DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 13,
+        "fields": {
+        "region_id": "3",
+        "name": "Muheza DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 14,
+        "fields": {
+        "region_id": "3",
+        "name": "Mkinga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 15,
+        "fields": {
+        "id": "15",
+        "region_id": "3",
+        "name": "Pangani DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 16,
+        "fields": {
+        "region_id": "3",
+        "name": "Tanga CC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 17,
+        "fields": {
+        "region_id": "4",
+        "name": "Bahi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 18,
+        "fields": {
+        "region_id": "4",
+        "name": "Chemba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 19,
+        "fields": {
+        "region_id": "4",
+        "name": "Dodoma MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 20,
+        "fields": {
+        "region_id": "4",
+        "name": "Kondoa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 21,
+        "fields": {
+        "region_id": "4",
+        "name": "Kongwa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 22,
+        "fields": {
+        "region_id": "4",
+        "name": "Mpwapwa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 23,
+        "fields": {
+        "region_id": "4",
+        "name": "Chamwino DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 24,
+        "fields": {
+        "region_id": "5",
+        "name": "Iringa MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 25,
+        "fields": {
+        "region_id": "5",
+        "name": "Iringa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 26,
+        "fields": {
+        "region_id": "5",
+        "name": "Kilolo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 27,
+        "fields": {
+        "region_id": "5",
+        "name": "Mufindi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 28,
+        "fields": {        "region_id": "6",
+        "name": "Biharamulo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 29,
+        "fields": {
+        "region_id": "6",
+        "name": "Bukoba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 30,
+        "fields": {
+        "region_id": "6",
+        "name": "Bukoba MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 31,
+        "fields": {
+        "region_id": "6",
+        "name": "Chato"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 32,
+        "fields": {
+        "region_id": "6",
+        "name": "Karagwe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 33,
+        "fields": {
+        "region_id": "6",
+        "name": "Misenyi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 34,
+        "fields": {
+        "region_id": "6",
+        "name": "Muleba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 35,
+        "fields": {
+        "region_id": "6",
+        "name": "Ngara DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 36,
+        "fields": {
+        "region_id": "7",
+        "name": "Kasulu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 37,
+        "fields": {
+        "region_id": "7",
+        "name": "Kibondo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 38,
+        "fields": {
+        "region_id": "7",
+        "name": "Kigoma DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 39,
+        "fields": {
+        "region_id": "7",
+        "name": "Kigoma MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 40,
+        "fields": {
+        "region_id": "8",
+        "name": "Hai DC"
+        }},
+        {
+            "model": "Data_Collection.District",
+            "pk": 41,
+            "fields": {
+        "region_id": "8",
+        "name": "Moshi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 42,
+        "fields": {
+        "region_id": "8",
+        "name": "Moshi MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 43,
+        "fields": {
+        "region_id": "8",
+        "name": "Mwanga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 44,
+        "fields": {
+        "region_id": "8",
+        "name": "Rombo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 45,
+        "fields": {
+        "region_id": "8",
+        "name": "Same DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 46,
+        "fields": {
+        "region_id": "8",
+        "name": "Siha DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 47,
+        "fields": {
+        "region_id": "9",
+        "name": "Kilwa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 48,
+        "fields": {
+        "region_id": "9",
+        "name": "Lindi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 49,
+        "fields": {
+        "region_id": "9",
+        "name": "Lindi MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 50,
+        "fields": {
+        "region_id": "9",
+        "name": "Liwale DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 51,
+        "fields": {
+        "region_id": "9",
+        "name": "Nachingwea DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 52,
+        "fields": {
+        "region_id": "9",
+        "name": "Ruangwa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 53,
+        "fields": {
+        "region_id": "10",
+        "name": "Babati DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 54,
+        "fields": {
+        "region_id": "10",
+        "name": "Hanangi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 55,
+        "fields": {
+        "region_id": "10",
+        "name": "Kiteto DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 56,
+        "fields": {
+        "region_id": "10",
+        "name": "Mbulu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 57,
+        "fields": {
+        "region_id": "10",
+        "name": "Simanjiro DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 58,
+        "fields": {
+        "region_id": "11",
+        "name": "Bunda DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 59,
+        "fields": {
+        "region_id": "11",
+        "name": "Musoma DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 60,
+        "fields": {
+        "region_id": "11",
+        "name": "Musoma MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 61,
+        "fields": {
+        "region_id": "11",
+        "name": "Serengeti DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 62,
+        "fields": {
+        "region_id": "11",
+        "name": "Tarime DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 63,
+        "fields": {
+        "region_id": "11",
+        "name": "Rorya DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 64,
+        "fields": {
+        "region_id": "12",
+        "name": "Kilombero DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 65,
+        "fields": {
+        "region_id": "12",
+        "name": "Kilosa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 66,
+        "fields": {
+        "region_id": "12",
+        "name": "Morogoro DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 67,
+        "fields": {
+        "region_id": "12",
+        "name": "Morogoro MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 68,
+        "fields": {
+        "region_id": "12",
+        "name": "Mvomero DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 69,
+        "fields": {
+        "region_id": "12",
+        "name": "Ulanga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 70,
+        "fields": {
+        "region_id": "13",
+        "name": "Lulindi DC"
+    }}  ,
+    {
+        "model": "Data_Collection.District",
+        "pk": 71,
+        "fields": {
+        "region_id": "13",
+        "name": "Masasi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 72,
+        "fields": {
+        "region_id": "13",
+        "name": "Mtwara DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 73,
+        "fields": {
+        "region_id": "13",
+        "name": "Mtwara MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 74,
+        "fields": {
+        "region_id": "13",
+        "name": "Nanyumbu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 75,
+        "fields": {
+        "region_id": "13",
+        "name": "Newala DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 76,
+        "fields": {
+        "region_id": "13",
+        "name": "Tandahimba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 77,
+        "fields": {
+        "region_id": "14",
+        "name": "Ilemela MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 78,
+        "fields": {
+        "region_id": "14",
+        "name": "Kwimba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 79,
+        "fields": {
+        "region_id": "14",
+        "name": "Magu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 80,
+        "fields": {
+        "region_id": "14",
+        "name": "Misungwi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 81,
+        "fields": {
+        "region_id": "14",
+        "name": "Nyamagana MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 82,
+        "fields": {
+        "region_id": "14",
+        "name": "Sengerema DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 83,
+        "fields": {
+        "region_id": "14",
+        "name": "Ukerewe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 84,
+        "fields": {
+        "region_id": "15",
+        "name": "Bagamoyo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 85,
+        "fields": {
+        "region_id": "15",
+        "name": "Kibaha DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 86,
+        "fields": {
+        "region_id": "15",
+        "name": "Kisarawe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 87,
+        "fields": {
+        "region_id": "15",
+        "name": "Mafia DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 88,
+        "fields": {
+        "region_id": "15",
+        "name": "Mkuranga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 89,
+        "fields": {
+        "region_id": "15",
+        "name": "Rufiji DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 90,
+        "fields": {
+        "region_id": "16",
+        "name": "Mpanda DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 91,
+        "fields": {
+        "region_id": "16",
+        "name": "Nkasi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 92,
+        "fields": {
+        "region_id": "16",
+        "name": "Sumbawanga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 93,
+        "fields": {
+        "region_id": "16",
+        "name": "Sumbawanga MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 94,
+        "fields": {
+        "region_id": "17",
+        "name": "Mbinga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 95,
+        "fields": {
+        "region_id": "17",
+        "name": "Songea DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 96,
+        "fields": {
+        "region_id": "17",
+        "name": "Songea MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 97,
+        "fields": {
+        "region_id": "17",
+        "name": "Tunduru DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 98,
+        "fields": {
+        "region_id": "17",
+        "name": "Namtumbo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 99,
+        "fields": {
+        "region_id": "17",
+        "name": "Nyasa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 100,
+        "fields": {
+        "region_id": "18",
+        "name": "Ushetu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 101,
+        "fields": {
+        "region_id": "18",
+        "name": "Kahama TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 102,
+        "fields": {
+        "region_id": "18",
+        "name": "Kishapu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 103,
+        "fields": {
+        "region_id": "18",
+        "name": "Msalala DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 104,
+        "fields": {
+        "region_id": "18",
+        "name": "Shinyanga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 105,
+        "fields": {
+        "region_id": "18",
+        "name": "Shinyanga MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 106,
+        "fields": {
+        "region_id": "19",
+        "name": "Iramba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 107,
+        "fields": {
+        "region_id": "19",
+        "name": "Manyoni DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 108,
+        "fields": {
+        "region_id": "19",
+        "name": "Singida DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 109,
+        "fields": {
+        "region_id": "19",
+        "name": "Singida MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 110,
+        "fields": {
+        "region_id": "20",
+        "name": "Igunga DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 111,
+        "fields": {
+        "region_id": "20",
+        "name": "Nzega DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 112,
+        "fields": {
+        "region_id": "20",
+        "name": "Sikonge DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 113,
+        "fields": {
+        "region_id": "20",
+        "name": "Uyui DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 114,
+        "fields": {
+        "region_id": "20",
+        "name": "Tabora MC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 115,
+        "fields": {
+        "region_id": "20",
+        "name": "Urambo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 116,
+        "fields": {
+        "region_id": "22",
+        "name": "Bukombe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 117,
+        "fields": {
+        "region_id": "22",
+        "name": "Chato DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 118,
+        "fields": {
+        "region_id": "22",
+        "name": "Geita DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 119,
+        "fields": {
+        "region_id": "22",
+        "name": "Mbogwe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 120,
+        "fields": {
+        "region_id": "22",
+        "name": "Nyang'hwale DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 121,
+        "fields": {
+        "region_id": "21",
+        "name": "Mlele DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 122,
+        "fields": {
+        "region_id": "21",
+        "name": "Mpanda DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 123,
+        "fields": {
+        "region_id": "24",
+        "name": "Makete DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 124,
+        "fields": {
+        "region_id": "24",
+        "name": "Njombe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 125,
+        "fields": {
+        "region_id": "24",
+        "name": "Ludewa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 126,
+        "fields": {
+        "region_id": "24",
+        "name": "Wanging'ombe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 127,
+        "fields": {
+        "region_id": "23",
+        "name": "Bariadi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 128,
+        "fields": {
+        "region_id": "23",
+        "name": "Busega DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 129,
+        "fields": {
+        "region_id": "23",
+        "name": "Maswa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 130,
+        "fields": {
+        "region_id": "23",
+        "name": "Meatu DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 131,
+        "fields": {
+        "region_id": "23",
+        "name": "Itilima DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 132,
+        "fields": {
+        "region_id": "25",
+        "name": "Chunya DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 133,
+        "fields": {
+        "region_id": "30",
+        "name": "Ileje DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 134,
+        "fields": {
+        "region_id": "25",
+        "name": "Kyela DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 135,
+        "fields": {
+        "region_id": "25",
+        "name": "Mbarali DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 136,
+        "fields": {
+        "region_id": "25",
+        "name": "Mbeya DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 137,
+        "fields": {
+        "region_id": "25",
+        "name": "Mbeya CC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 138,
+        "fields": {
+        "region_id": "30",
+        "name": "Mbozi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 139,
+        "fields": {
+        "region_id": "30",
+        "name": "Momba DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 140,
+        "fields": {
+        "region_id": "25",
+        "name": "Rungwe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 141,
+        "fields": {
+        "region_id": "25",
+        "name": "Tunduma Town Council"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 142,
+        "fields": {
+        "region_id": "26",
+        "name": "Zanzibar Central"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 143,
+        "fields": {
+        "region_id": "26",
+        "name": "Zanzibar South"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 144,
+        "fields": {
+        "region_id": "26",
+        "name": "Kaskazini A"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 145,
+        "fields": {
+        "region_id": "26",
+        "name": "Kaskazini B"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 146,
+        "fields": {
+        "region_id": "26",
+        "name": "Zanzibar West"
+        }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 147,
+        "fields": {
+        "region_id": "26",
+        "name": "Zanzibar Urban"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 148,
+        "fields": {
+        "region_id": "1",
+        "name": "Ngorongoro DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 149,
+        "fields": {
+        "region_id": "6",
+        "name": "Kyerwa DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 150,
+        "fields": {
+        "region_id": "7",
+        "name": "Buhigwe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 151,
+        "fields": {
+        "region_id": "7",
+        "name": "Kakonko DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 152,
+        "fields": {
+        "region_id": "7",
+        "name": "Kasulu TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 153,
+        "fields": {
+        "region_id": "7",
+        "name": "Uvinza DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 154,
+        "fields": {
+        "region_id": "11",
+        "name": "Butiama DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 155,
+        "fields": {
+        "region_id": "11",
+        "name": "Tarime TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 156,
+        "fields": {
+        "region_id": "12",
+        "name": "Gairo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 157,
+        "fields": {
+        "region_id": "15",
+        "name": "Kibaha TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 158,
+        "fields": {
+        "region_id": "23",
+        "name": "Bariadi TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 159,
+        "fields": {
+        "region_id": "19",
+        "name": "Mkalama DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 160,
+        "fields": {
+        "region_id": "19",
+        "name": "Ikungi DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 161,
+        "fields": {
+        "region_id": "20",
+        "name": "Kaliua DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 162,
+        "fields": {
+        "region_id": "3",
+        "name": "Korogwe DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 163,
+        "fields": {
+        "region_id": "3",
+        "name": "Bumbuli DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 164,
+        "fields": {
+        "region_id": "21",
+        "name": "Nsimbo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 165,
+        "fields": {
+        "region_id": "25",
+        "name": "Busokelo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 166,
+        "fields": {
+        "region_id": "13",
+        "name": "Masasi TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 167,
+        "fields": {
+        "region_id": "24",
+        "name": "Makambako TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 168,
+        "fields": {
+        "region_id": "24",
+        "name": "Njombe TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 169,
+        "fields": {
+        "region_id": "16",
+        "name": "Kalambo DC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 170,
+        "fields": {
+        "region_id": "10",
+        "name": "Babati TC"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 171,
+        "fields": {
+        "region_id": "27",
+        "name": "Micheweni"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 172,
+        "fields": {
+        "region_id": "27",
+        "name": "Wete"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 173,
+        "fields": {
+        "region_id": "28",
+        "name": "Chake Chake"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 174,
+        "fields": {
+        "region_id": "28",
+        "name": "Mkoani"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 175,
+        "fields": {
+        "region_id": "2",
+        "name": "Ubungo"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 176,
+        "fields": {
+        "region_id": "2",
+        "name": "Kigamboni"
+    }},
+    {
+        "model": "Data_Collection.District",
+        "pk": 177,
+        "fields": {
+        "region_id": "30",
+        "name": "Songwe"
+    }}
+]

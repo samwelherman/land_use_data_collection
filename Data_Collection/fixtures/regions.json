@@ -1,0 +1,213 @@
+[
+    {
+        "model": "Data_Collection.Region",
+        "pk": 1,
+        "fields": {
+        "zone_id": "4",
+        "name": "Arusha"
+        }
+    },
+    {
+        "model": "Data_Collection.Region",
+        "pk": 2,
+        "fields": {
+        "zone_id": "2",
+        "name": "Dar es Salaam"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 3,
+        "fields": {
+        "zone_id": "4",
+        "name": "Tanga"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 4,
+        "fields": {
+        "zone_id": "1",
+        "name": "Dodoma"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 5,
+        "fields": {
+        "zone_id": "1",
+        "name": "Iringa"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 6,
+        "fields": {
+        "zone_id": "3",
+        "name": "Kagera"
+        }},
+        {
+            "model": "Data_Collection.Region",
+            "pk": 7,
+            "fields": {
+        "zone_id": "7",
+        "name": "Kigoma"
+        }},
+        {
+            "model": "Data_Collection.Region",
+            "pk": 8,
+            "fields": {
+        "zone_id": "4",
+        "name": "Kilimanjaro"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 9,
+        "fields": {
+        "zone_id": "5",
+        "name": "Lindi"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 10,
+        "fields": {
+        "zone_id": "4",
+        "name": "Manyara"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 11,
+        "fields": {
+        "zone_id": "3",
+        "name": "Mara"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 12,
+        "fields": {
+        "zone_id": "2",
+        "name": "Morogoro"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 13,
+        "fields": {
+        "zone_id": "5",
+        "name": "Mtwara"
+        }},
+        {
+            "model": "Data_Collection.Region",
+            "pk": 14,
+            "fields": {
+        "zone_id": "3",
+        "name": "Mwanza"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 15,
+        "fields": {
+        "zone_id": "2",
+        "name": "Pwani"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 16,
+        "fields": {
+        "zone_id": "6",
+        "name": "Rukwa"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 17,
+        "fields": {
+        "zone_id": "6",
+        "name": "Ruvuma"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 18,
+        "fields": {
+        "zone_id": "3",
+        "name": "Shinyanga"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 19,
+        "fields": {
+        "zone_id": "1",
+        "name": "Singida"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 20,
+        "fields": {
+        "zone_id": "1",
+        "name": "Tabora"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 21,
+        "fields": {
+        "zone_id": "6",
+        "name": "Katavi"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 22,
+        "fields": {
+        "zone_id": "3",
+        "name": "Geita"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 23,
+        "fields": {
+        "zone_id": "3",
+        "name": "Simiyu"
+        }},
+        {
+            "model": "Data_Collection.Region",
+            "pk": 24,
+            "fields": {
+        "zone_id": "6",
+        "name": "Njombe"
+        }},
+        {
+            "model": "Data_Collection.Region",
+            "pk": 25,
+            "fields": {
+        "zone_id": "6",
+        "name": "Mbeya"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 26,
+        "fields": {
+        "zone_id": "6",
+        "name": "Zanzibar Central\/South"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 27,
+        "fields": {
+        "zone_id": "6",
+        "name": "Pemba North"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 28,
+        "fields": {
+        "zone_id": "6",
+        "name": "Zanzibar North"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 29,
+        "fields": {
+        "zone_id": "6",
+        "name": "Pemba South"
+    }},
+    {
+        "model": "Data_Collection.Region",
+        "pk": 30,
+        "fields": {
+        "zone_id": "6",
+        "name": "Zanzibar Urban\/West"
+    }}
+]
